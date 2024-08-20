@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-'''Task 0's module.
-'''
 import asyncio
 import random
 from typing import AsyncGenerator
